@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name "viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title">Elon Musk</h1>
+      <figure id="img-div">
+        <img id="image" src="https://www.rollingstone.com/wp-content/uploads/2018/06/elon-musk-rolling-stone-interview-ae137f40-5cf4-4b28-bc47-d37b06b60310.jpg?w=1581&h=1054&crop=1" />
+        <figcaption id="img-caption">Elon Musk at the SpaceX headquarters in Hawthorne, California</figcaption>
+      </figure>
+      <section id="tribute-info">
+        <p>Owner of 6 companies including SpaceX and tesla, Elon is pushing the boundries of science and technology through electric cars and space travel.</p>
+        Learn more about Elon Musk by checking out his Wikipedia page <a id="tribute-link" href="https://en.wikipedia.org/wiki/Elon_Musk" target="_blank">here</a>
+      </section>
+    </main>
+  </body>
+</html>
